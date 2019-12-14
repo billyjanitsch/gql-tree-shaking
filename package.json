@@ -1,0 +1,22 @@
+{
+  "name": "gql-tree-shaking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "sideEffects": false,
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": "billyjanitsch/gql-tree-shaking",
+  "keywords": [],
+  "author": "Billy Janitsch <billyjanitsch@gmail.com> (https://billyjanitsch.com)",
+  "license": "ISC",
+  "dependencies": {
+    "graphql": "^14.6.0",
+    "react": "^16.12.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
