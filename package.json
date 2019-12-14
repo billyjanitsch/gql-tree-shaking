@@ -12,6 +12,7 @@
   "author": "Billy Janitsch <billyjanitsch@gmail.com> (https://billyjanitsch.com)",
   "license": "ISC",
   "dependencies": {
+    "apollo-boost": "^0.4.7",
     "graphql": "^14.6.0",
     "react": "^16.12.0"
   },
